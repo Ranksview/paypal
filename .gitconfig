@@ -1,2 +1,5 @@
 [init]
 	defaultBranch = master
+[user]
+	email = ritadevops@gmail.com
+	name = ranskview
